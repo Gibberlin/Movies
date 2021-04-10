@@ -1,0 +1,41 @@
+[33mcommit 31c7020f8dcd4f133f71fe9b4fd4a400b8e08aa2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Fri Apr 9 14:06:49 2021 +0530
+
+    added search options
+
+[33mcommit 1a90ce6d43a2ee45cef75735741b376428311880[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Wed Apr 7 18:18:16 2021 +0530
+
+    sorted out the api into a new file
+
+[33mcommit 5f7887f1879ace1c46cab47a3219e413adfad44e[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Wed Apr 7 12:28:38 2021 +0530
+
+    added search and fetch results
+
+[33mcommit 45fe692fe5fcc2584b388ac5bda3ef685d25f6ed[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Tue Apr 6 22:55:40 2021 +0530
+
+    added some new features and a tittle and a subtitle
+
+[33mcommit e06c34728cb2ac9394c981702aa02e85f893bd88[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Tue Apr 6 21:59:32 2021 +0530
+
+    added home,nav and started components
+
+[33mcommit 42c717313b7eb6d6325188a59253642aa6a1796b[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Tue Apr 6 21:11:30 2021 +0530
+
+    added routes
+
+[33mcommit f762492356c47b243c7e3cdd967a8a90858fdd4c[m
+Author: Syed Yashin Hussain <syedeyashin@gmail.com>
+Date:   Fri Apr 2 21:24:42 2021 +0530
+
+    Initialize project using Create React App
