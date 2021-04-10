@@ -1,12 +1,15 @@
 import React from 'react';
-import Nav from './Nav';
-import { Pages } from './Pages';
+import Navs from './Navs';
+import Title from './Title';
 
 const MainPageLayout = ({ children }) => {
   return (
     <div>
-      <Nav />
-      <Pages title="Boomarang" subtitle="call me honey"></Pages>
+      <Title
+        title="Box Office"
+        subtitle="Are you looking for a movie or an actor?"
+      />
+      <Navs />
 
       {children}
     </div>

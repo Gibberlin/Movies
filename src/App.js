@@ -1,8 +1,8 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
-import Home from './components/Home';
-import Started from './components/Started';
+import Home from './pages/Home';
+import Starred from './pages/Starred';
 
 function App() {
   return (
@@ -11,12 +11,12 @@ function App() {
         <Home />
       </Route>
 
-      <Route exact path="/started">
-        <Started />
+      <Route exact path="/starred">
+        <Starred />
       </Route>
+
       <Route>
-        This Page is not found
-        <h1>Error: 404</h1>
+        <div>Not found</div>
       </Route>
     </Switch>
   );
